@@ -1,0 +1,9 @@
+
+### `requirements.txt`
+pandas
+requests
+beautifulsoup4
+numpy
+openpyxl
+tensorflow
+scikit-learn
